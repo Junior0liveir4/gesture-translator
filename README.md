@@ -47,6 +47,7 @@ python3 gesture-translator.py
 ```
 
 ## 📬 Contato
+Para dúvidas ou sugestões, entre em contato com o time do LabSEA.
 
 [Instagram](https://www.instagram.com/labsea.gua/)
 
