@@ -52,6 +52,6 @@ python3 gesture-translator.py
 
 [YouTube](https://www.youtube.com/channel/UCpiTMhUtKi3W7QnoOSL9UsQ)
 
-[![LinkedIn]](www.linkedin.com/in/labsea-ifes-guarapari-b13684409)
+[LinkedIn](www.linkedin.com/in/labsea-ifes-guarapari-b13684409)
 
-labsea.gua@gmail.com
+[Email](labsea.gua@gmail.com)
