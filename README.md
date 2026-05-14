@@ -42,7 +42,6 @@ python3 gesture-translator.py
 .
 ├── gesture-translator.py
 ├── streamChannel.py
-├── historico.json
 └── README.md
 ```
 
